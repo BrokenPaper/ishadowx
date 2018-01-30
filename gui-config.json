@@ -1,0 +1,143 @@
+{
+    "proxyType": 0, 
+    "randomAlgorithm": 3, 
+    "sysProxyMode": 3, 
+    "localPort": 1080, 
+    "serverSubscribes": [], 
+    "nodeFeedAutoUpdate": true, 
+    "localAuthPassword": "ukg6QaRaCyOvZWV2VR55", 
+    "random": true, 
+    "authPass": null, 
+    "autoBan": false, 
+    "portMap": {}, 
+    "proxyAuthUser": null, 
+    "proxyAuthPass": null, 
+    "isHideTips": false, 
+    "index": 4, 
+    "connectTimeout": 5, 
+    "sameHostForSameTarget": false, 
+    "proxyRuleMode": 2, 
+    "proxyUserAgent": null, 
+    "TTL": 0, 
+    "reconnectTimes": 2, 
+    "authUser": null, 
+    "keepVisitTime": 180, 
+    "proxyHost": null, 
+    "configs": [
+        {
+            "server_port": 18992, 
+            "timeout": 5, 
+            "remarks": "", 
+            "password": "76433930", 
+            "method": "aes-256-cfb", 
+            "auth": false, 
+            "server": "a.isxb.bid"
+        }, 
+        {
+            "server_port": 12471, 
+            "timeout": 5, 
+            "remarks": "", 
+            "password": "91718376", 
+            "method": "aes-256-cfb", 
+            "auth": false, 
+            "server": "b.isxb.bid"
+        }, 
+        {
+            "server_port": 16479, 
+            "timeout": 5, 
+            "remarks": "", 
+            "password": "01196663", 
+            "method": "aes-256-cfb", 
+            "auth": false, 
+            "server": "c.isxb.bid"
+        }, 
+        {
+            "server_port": 10428, 
+            "timeout": 5, 
+            "remarks": "", 
+            "password": "10268909", 
+            "method": "aes-256-cfb", 
+            "auth": false, 
+            "server": "a.isxa.bid"
+        }, 
+        {
+            "server_port": 19482, 
+            "timeout": 5, 
+            "remarks": "", 
+            "password": "53911400", 
+            "method": "aes-256-cfb", 
+            "auth": false, 
+            "server": "b.isxa.bid"
+        }, 
+        {
+            "server_port": 10439, 
+            "timeout": 5, 
+            "remarks": "", 
+            "password": "57464718", 
+            "method": "aes-256-cfb", 
+            "auth": false, 
+            "server": "c.isxa.bid"
+        }, 
+        {
+            "server_port": 10885, 
+            "timeout": 5, 
+            "remarks": "", 
+            "password": "62405933", 
+            "method": "aes-256-cfb", 
+            "auth": false, 
+            "server": "a.isxc.bid"
+        }, 
+        {
+            "server_port": 18716, 
+            "timeout": 5, 
+            "remarks": "", 
+            "password": "80988494", 
+            "method": "aes-256-cfb", 
+            "auth": false, 
+            "server": "b.isxc.bid"
+        }, 
+        {
+            "server_port": 17766, 
+            "timeout": 5, 
+            "remarks": "", 
+            "password": "55130111", 
+            "method": "aes-256-cfb", 
+            "auth": false, 
+            "server": "c.isxc.bid"
+        }, 
+        {
+            "server_port": 10885, 
+            "timeout": 5, 
+            "remarks": "", 
+            "password": "62405933", 
+            "method": "aes-256-cfb", 
+            "auth": false, 
+            "server": "a.isxc.bid"
+        }, 
+        {
+            "server_port": 19482, 
+            "timeout": 5, 
+            "remarks": "", 
+            "password": "53911400", 
+            "method": "aes-256-cfb", 
+            "auth": false, 
+            "server": "b.isxa.bid"
+        }, 
+        {
+            "server_port": 16479, 
+            "timeout": 5, 
+            "remarks": "", 
+            "password": "01196663", 
+            "method": "aes-256-cfb", 
+            "auth": false, 
+            "server": "c.isxb.bid"
+        }
+    ], 
+    "pacDirectGoProxy": false, 
+    "proxyPort": 0, 
+    "dnsServer": "", 
+    "shareOverLan": false, 
+    "token": {}, 
+    "randomInGroup": false, 
+    "proxyEnable": false
+}
